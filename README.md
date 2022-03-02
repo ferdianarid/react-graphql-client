@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# React App with GraphQL and Apollo Client
+Create User Query and Mutation using React GraphQL and Apollo Client
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://raw.githubusercontent.com/ferdianar/react-graphql-client/master/public/preview.png" alt="preview" />
 
 ## Available Scripts
 
